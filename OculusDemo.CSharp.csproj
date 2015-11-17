@@ -68,11 +68,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\PositionDemo.cs" />
-    <Compile Include="Assets\RotationDemo.cs" />
-    <Compile Include="Assets\ScoreText.cs" />
-    <Compile Include="Assets\VRDeviceDemo.cs" />
-    <Compile Include="Assets\WebCameraConnect.cs" />
+    <Compile Include="Assets\Scripts\PositionDemo.cs" />
+    <Compile Include="Assets\Scripts\RotationDemo.cs" />
+    <Compile Include="Assets\Scripts\ScoreText.cs" />
+    <Compile Include="Assets\Scripts\VRDeviceDemo.cs" />
+    <Compile Include="Assets\Scripts\WebCameraConnect.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
